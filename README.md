@@ -1,0 +1,3 @@
+-  Hi, I’m @oddtri
+-  I’m interested in Cybersecurity
+-  I’m currently working on learning Cybersecurity projects 
